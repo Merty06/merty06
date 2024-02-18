@@ -11,11 +11,12 @@ Welcome to **User** - where simplicity meets joy! 🚀 This delightful applicati
 - 🚀 **Swift Performance:** Lightning-fast interactions to keep up with your enthusiasm.
 - 🌈 **Personalized Experience:** Customize your profile with emojis and stickers!
 
-## 🌈 Installation
+## 🌈 Certification
 
-Get ready to embark on a journey with **User** by following these magical steps:
+Code.org Simple Coding :  ![eyJuYW1lIjoiUHVueWF3ZWUgVGhpYW10aG9tIiwiY291cnNlIjoiaG91cm9mY29kZSIsImRvbm9yIjoiVmlzdGEgRXF1aXR5IFBhcnRuZXJzIn0=](https://github.com/Merty06/merty06/assets/154034619/667407e6-fc1c-421c-9c6b-31a0d87d3290)
 
-```bash
-git clone https://github.com/your-username/user.git
-cd user
-npm install
+HackkerRank SQL - Basic : ![download](https://github.com/Merty06/merty06/assets/154034619/19ff9eee-49f0-4dd6-96aa-0cc7069e284e)
+
+Good grades medal : ![bed27971-90cb-4e0c-8fdd-d4571643ff98](https://github.com/Merty06/merty06/assets/154034619/66ca5913-f289-473a-8cff-3ddd0cfab6d0)
+
+
