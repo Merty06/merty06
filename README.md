@@ -1,4 +1,3 @@
-![FundamentalPun](https://github.com/Merty06/merty06/assets/154034619/abc96b6f-d35f-4ae3-b7c1-ed6d3ee2b613)
 # 🌈 User
 
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
